@@ -18,4 +18,4 @@ flavors.forEach(flavor) {
 }
 
 console.log(flavorCounts);
-else {}
+return flChoice
