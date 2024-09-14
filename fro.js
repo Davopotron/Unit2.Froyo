@@ -1,6 +1,10 @@
 
 //Choose flavor seperated by commas// 
 let input = froyo(flChoice);
+const flavorInput = prompt(
+    'What flavors would you like?',
+    'vanilla,vanilla,vanilla,strawberry,coffee,coffee'
+    );
 const flChoice=vanilla || Strawberry || coffee;
 
 
